@@ -10,6 +10,7 @@
     <Clients/>
     <OurVision/>
     <Speech/>
+    <Believe/>
   </div>
 </template>
 
@@ -23,6 +24,7 @@ import Single from './components/Single.vue';
 import Clients from './components/Clients.vue';
 import OurVision from './components/OurVision.vue';
 import Speech from './components/Speech.vue';
+import Believe from './components/Believe.vue';
 </script>
 
 <style>

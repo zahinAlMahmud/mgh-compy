@@ -2,10 +2,9 @@
   <div class="hero-section" :style="backgroundStyle">
     <section class="split-section">
       <div class="text-side" data-aos="fade-right">
-        <h2 style="color: aliceblue;">Main Concept</h2>
+        <h2 style="color: aliceblue;">CyberSec Solution</h2>
         <p style="color: #004aad;">
-          MGH operates across logistics, aviation, and technology sectors —
-          empowering global trade through innovation and efficiency.
+          Protecting data, securing trust – our CyberSec solutions keep you safe in a digital world.
         </p>
        <button style="border-radius: 8px; background-color:#d9d9d9; color: #000; padding: 10px 20px; border: none; cursor: pointer;">
   Explore More

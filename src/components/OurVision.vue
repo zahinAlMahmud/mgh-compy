@@ -4,14 +4,17 @@
       <h3 data-aos="flip-right"><span>//</span> Our Vision</h3>
       <hr />
     </div>
-    <div class="description">
+    <div class="description" data-aos="fadeIn">
       <p>Empowering organizations to thrive securely in a connected world — where data, trust, and technology work together</p>
 
+    
     </div>
   </section>
 </template>
 
 <script setup>
+
+import image from  "@/assets/groupofpeople.jpg"
 // No logic needed yet — script left empty intentionally
 </script>
 
