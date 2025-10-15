@@ -5,12 +5,13 @@
       <hr />
       <div class="content" data-aos="fadeIn">
         <div class="text">
+          <h3>MultiGroup</h3>
           <p>
             Multi Group BD is a diversified Bangladeshi conglomerate established in 2008, specializing in international trade, industrial solutions, and technology integration. With over 250 completed projects and a network of 12 sister companies, Multi Group BD has become a recognized leader in sectors such as agriculture, construction, IT, and security solutions.
           </p>
         </div>
         <div class="image">
-          <img src="@/assets/groupofpeople.jpg" alt="Group of People" />
+          <img src="@/assets/green.png" alt="Group of People" />
         </div>
       </div>
     </div>
@@ -20,13 +21,13 @@
       <hr />
       <div class="content" data-aos="fadeIn">
         <div class="text">
-             <h3>MultiGroup</h3>
+             <h3>cloudLoop</h3>
           <p>
             Multi Group BD is a diversified Bangladeshi conglomerate established in 2008, specializing in international trade, industrial solutions, and technology integration. With over 250 completed projects and a network of 12 sister companies, Multi Group BD has become a recognized leader in sectors such as agriculture, construction, IT, and security solutions.
           </p>
         </div>
         <div class="image">
-          <img src="@/assets/groupofpeople.jpg" alt="Group of People" />
+          <img src="@/assets/cloudloop.png" alt="Group of People" />
         </div>
       </div>
     </div>
