@@ -42,6 +42,6 @@
   color: white;
   padding: 8px;
   font-size: 16px;
-  font-family: 'Times New Roman', Times, serif;
+  font-family: "ThunderMed", sans-serif;
 }
 </style>

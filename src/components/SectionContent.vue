@@ -15,17 +15,17 @@
 </template>
 
 <script>
-import img1 from '@/assets/twopeople2.png';
-import img2 from '@/assets/car.jpg';
-import img3 from '@/assets/twopeople2.png';
+import img1 from '@/assets/1.png';
+import img2 from '@/assets/logo.png';
+import img3 from '@/assets/metaheed.png';
 
 export default {
   data() {
     return {
       images: [
-        { src: img1, alt: 'MGH Logistics', caption: 'MGH Logistics and Supply Chain' },
-        { src: img2, alt: 'OBHAI', caption: 'OBHAI' },
-        { src: img3, alt: 'MgX', caption: 'MgX' },
+        { src: img1, alt: 'MGH Logistics', caption: 'GreenCyberSec.net' },
+        { src: img2, alt: 'MULTI GROUP', caption: 'MULTI GROUP' },
+        { src: img3, alt: 'Metaheed', caption: 'Metaheed' },
       ],
       BackgroundStyle: {
         backgroundColor: '#3f3392',
@@ -87,7 +87,7 @@ p {
 }
 
 .gallery-item img {
-  width: 100%;
+  width: 80%;
   height: 400px;
   object-fit: cover;
   display: block;

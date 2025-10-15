@@ -8,6 +8,7 @@
     <Single/>
     <!-- <Second/> -->
     <Clients/>
+    <OurVision/>
   </div>
 </template>
 
@@ -19,8 +20,20 @@ import MainContent from './components/MainContent.vue';
 import SectionContent from './components/SectionContent.vue';
 import Single from './components/Single.vue';
 import Clients from './components/Clients.vue';
+import OurVision from './components/OurVision.vue';
 </script>
 
 <style>
-/* global styles if any */
+@font-face {
+  font-family: "ThunderMed";
+  src: url("@/assets/fonts/ThunderMed.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+/* Optional: apply globally */
+body {
+  font-family: "ThunderMed", sans-serif;
+}
+
 </style>
