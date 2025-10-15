@@ -11,6 +11,7 @@
     <OurVision/>
     <Speech/>
     <Believe/>
+    <Footer/>
   </div>
 </template>
 
@@ -25,6 +26,7 @@ import Clients from './components/Clients.vue';
 import OurVision from './components/OurVision.vue';
 import Speech from './components/Speech.vue';
 import Believe from './components/Believe.vue';
+import Footer from './components/Footer.vue';
 </script>
 
 <style>
